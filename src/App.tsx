@@ -86,7 +86,7 @@ const App: FC = () => {
         <footer className="footer">
             <div className="content has-text-centered">
                 <p>
-                    See code at <a href="https://github.com/jshaipuka">Github</a>.
+                    See code at <a href="https://github.com/jshaipuka/currency-converter">Github</a>.
                 </p>
             </div>
         </footer>
